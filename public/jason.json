@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Camera",
+      "description": "A classic 1960s film camera in excellent condition.",
+      "currentBidPrice": 150.00,
+      "timeLeft": "2d 4h",
+      "bidsCount": 12,
+      "image": "camera.png"
+    },
+    {
+      "id": 2,
+      "title": "Gaming Laptop",
+      "description": "High-performance laptop with RTX 3070 and 16GB RAM.",
+      "currentBidPrice": 950.00,
+      "timeLeft": "5h 30m",
+      "bidsCount": 23,
+      "image": "laptop.png"
+    },
+    {
+      "id": 3,
+      "title": "Antique Watch",
+      "description": "Swiss-made gold watch, circa 1945. Still working.",
+      "currentBidPrice": 420.00,
+      "timeLeft": "1d 12h",
+      "bidsCount": 17,
+      "image": "watch.png"
+    },
+    {
+      "id": 4,
+      "title": "Vase",
+      "description": "Beautifully crafted antique vase.",
+      "currentBidPrice": 85.00,
+      "timeLeft": "3h 45m",
+      "bidsCount": 9,
+      "image": "vase.png"
+    },
+    {
+      "id": 5,
+      "title": "Chair",
+      "description": "Crafted from himalayan woods.",
+      "currentBidPrice": 300.00,
+      "timeLeft": "3d 2h",
+      "bidsCount": 14,
+      "image": "chair.png"
+    },
+    {
+      "id": 6,
+      "title": "Electric Guitar",
+      "description": "Cherry red electric guitar with maple neck and gig bag.",
+      "currentBidPrice": 275.00,
+      "timeLeft": "4d 6h",
+      "bidsCount": 21,
+      "image": "guitar.png"
+    }
+  ]
+  
