@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 
-function footer() {
+function Footer() {
     return (
-        <footer className="footer footer-horizontal footer-center p-10 soraFont">
+        <Footer className="footer footer-horizontal footer-center p-10 soraFont">
             <aside>
                 <p className="font-bold text-2xl">
                    <span className='text-[#003EA4]'>Auction</span><span className='text-[#FFD337] font-bold'>Gallery</span>
@@ -20,10 +20,10 @@ function footer() {
                     <a className="link link-hover">How it works</a>
                 </nav>
 
-                <p>©2025 AuctionHub. All rights reserved.</p>
+                <p>©2025 AuctionHub. All rights reserved.</p>
             </aside>
-        </footer>
-    )
+        </Footer>
+    );
 }
 
-export default footer
+export default Footer;
